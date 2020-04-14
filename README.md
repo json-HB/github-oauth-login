@@ -1,5 +1,9 @@
 A very simple demo of OAuth 2.0 using Node.js，to add GitHub login to your app and access GitHub API.
 
+## online demo
+
+[haibo.online](http://haibo.online:3040/)
+
 ## Step one: register the app
 
 Register the app on Github : https://github.com/settings/applications/new .
